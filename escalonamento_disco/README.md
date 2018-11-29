@@ -11,7 +11,7 @@ make (C ou CPP)
 E para rodar o programa:
 
 ```
-program < conf.in
+./program < conf.in
 ```
 
 O arquivo de configuração usa o seguinte formato:
